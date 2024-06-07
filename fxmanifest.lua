@@ -1,0 +1,7 @@
+fx_version 'cerulean'
+game 'gta5'
+Author 'GitFutureTrunks'
+Description 'Simple Tollbooth By GitFutureTrunks'
+shared_script 'config.lua'
+client_script 'client/main.lua'
+server_script 'server/main.lua'
