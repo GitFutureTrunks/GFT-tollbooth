@@ -1,4 +1,5 @@
 # GFT-tollbooth
+### [Preview](https://streamable.com/ehju9q)
 This is a simple toll booth resource for QBCore that is drag n drop
 
 Gives players a booth fee for simply crossing a checkpoint that you set in the config!
